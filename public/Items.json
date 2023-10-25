@@ -1,0 +1,39 @@
+
+    {
+      "items": {
+        
+        "responsive": [
+          {
+            "id": 1,
+            "title": "Perfect Yoga",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+            "imageUrl": "course1.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Running Practice",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+            "imageUrl": "course2.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Zumba Practice",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+            "imageUrl": "course3.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Fitness Training",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+            "imageUrl": "course4.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Weight Lifting",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+            "imageUrl": "course5.jpg"
+          }
+        ]
+      }
+    }
+
